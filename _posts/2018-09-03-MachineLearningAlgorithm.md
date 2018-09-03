@@ -46,4 +46,4 @@ tag: 机器学习
 
 注意:未完待续...(To be continuted.......) 
 
-转载请注明：[何爱平的博客](http://AndrewHeaiping.github.io) » [点击阅读原文](https://www.heaiping.cn/2018/09/03MachineLearning_introduce/)
+转载请注明：[何爱平的博客](http://AndrewHeaiping.github.io) » [点击阅读原文](https://www.heaiping.cn/2018/09/MachineLearningAlgorithm/)
