@@ -45,7 +45,7 @@ tag: 机器学习
 -   Step5 返回前k个点出现频率最高的类别作为当前点的预测分类。
 
 **这是我自己总结的机器学习算法ppt资料，需要的可自行下载参考**
-[机器学习算法.ppt](https://github.com/AndrewHeaiping/DownloadFiles/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95.pptx?raw=true)</p> 
+[机器学习算法.ppt](https://github.com/AndrewHeaiping/DownloadFiles/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95.pptx?raw=true) 
    **注意:**未完待续...(To be continuted.......)
 <br>
 
