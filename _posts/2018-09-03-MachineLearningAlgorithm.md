@@ -5,7 +5,7 @@ date: 2018-09-03
 description: "机器学习进阶篇"
 tag: 机器学习  
 
----    
+---
 
 
 
@@ -16,7 +16,7 @@ tag: 机器学习
 点，我们利用最小二乘法找到这些点到一条直线的**欧式距离**之和最小时的函数，这个过程就是线性回归。  
 　　**概念：** 用已知样本对未知函数参数的估计，给出一个点集D，用一个函数去拟合这个点集，并且使得点集与拟合函数间的均方误差最小，如
 果这个函数曲线是一条直线，那就被称为线性回归，如果曲线是一条二次曲线，就被称为二次回归。
-  
+
 
 **2.基于实例的算法 （Instance-based Algorithm ）**
 
@@ -45,8 +45,11 @@ tag: 机器学习
 -   Step5 返回前k个点出现频率最高的类别作为当前点的预测分类。
 
 **这是我自己总结的机器学习算法ppt资料，需要的可自行下载参考**
+
 [机器学习算法.ppt](https://github.com/AndrewHeaiping/DownloadFiles/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95.pptx?raw=true)</p> 
    **注意:**未完待续...(To be continuted.......)
 <br>
-
+[机器学习算法.ppt](https://github.com/AndrewHeaiping/DownloadFiles/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95.pptx?raw=true) 
+<br>
+注意:未完待续...(To be continuted.......)
 转载请注明：[何爱平的博客](http://AndrewHeaiping.github.io) » [点击阅读原文](https://www.heaiping.cn/2018/09/MachineLearningAlgorithm/)
