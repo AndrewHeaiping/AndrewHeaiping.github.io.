@@ -1,6 +1,6 @@
 body {
   background: rgb(216, 210, 210);
-  overflow: hidden;
+  overflow: visible;
 }
 
 .firefly {
